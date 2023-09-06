@@ -1,7 +1,8 @@
 # Hacker101-Walkthroughs
 
-<div align="center">
-   <img width="350" height="240" src=https://github.com/xocybersec/Hacker101-Walkthroughs/assets/91302698/7869990a-a182-40ac-877d-d8317bb72306</div>
+<div align=center>
+   <img src=https://github.com/xocybersec/Hacker101-Walkthroughs/assets/91302698/d0bef898-935c-4ea6-a352-c80a27685055
+      </div>
 <br><br>
 Welcome to my Hacker101 walkthrough repository! In here, you'll find many web app style challenges.
 My goal is to do my best to provide the methodologies, different kinds of techniques, and explanations in an easy to understand read/ follow along format. 
